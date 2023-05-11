@@ -78,13 +78,9 @@ I Am a Software Developer from South Africa
 
 ### :fire: My Github Stats :
 
-
-<!---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phemelomodiga&langs_count=8)](https://github.com/phemelomodiga/github-readme-stats)
---->
- <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phemelomodiga&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=phemelomodiga&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
  
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phemelomodiga&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phemelomodiga&theme=tokyonight&hide_border=true&border_radius=5&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
  
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phemelomodiga&theme=tokyonight&border_radius=5&hide_border=true&layout=compact&langs_count=8"/>
 
