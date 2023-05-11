@@ -1,7 +1,17 @@
+ <!---
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
+--->
+## Hey 👋, I'm [Phemelo Modiga!](https://github.com/phemelomodiga/)
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/phemelomodiga)
+<!---
+[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://iampavangandhi.github.io/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/iampavangandhi)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/iampavangandhi/)
+[![Telegram Badge](https://img.shields.io/badge/-Telegram-0088cc?style=flat-square&logo=Telegram&logoColor=white)](https://t.me/iampavangandhi)
+--->
 ---
 
 <div align="center">
@@ -23,6 +33,20 @@ I Am a Software Developer from South Africa
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning The Java Programming Languagae .
 - 💞️ I’m looking to collaborate on Java Projects.
+
+
+- ### Talking about Personal Stuffs:
+
+- 🛠 &nbsp; I’m currently working with Nodejs, Express, React, <br /> Graphql, Mongodb, Javascript, etc.
+- 🚀 &nbsp; I’m currently learning Full Stack Development.
+- 👨🏻‍💻 &nbsp; Most of my projects are available on [Github](https://github.com/phemelomodiga).
+- 📫 &nbsp; How to reach me: phemelomodiga@yahoo.com
+<!---
+
+- 💬 &nbsp; Ask me about anything [here](https://github.com/iampavangandhi/iampavangandhi/issues/2)! I am happy to help.
+- 👾 &nbsp; Fun fact: Equal is Not Always Equal in Javascript.
+- 📝 &nbsp; Checkout my [Resume](https://github.com/iampavangandhi/iampavangandhi/blob/master/resume.pdf).
+--->
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
@@ -52,11 +76,17 @@ I Am a Software Developer from South Africa
 
 ---
 
-### :fire: My Stats :
+### :fire: My Github Stats :
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phemelomodiga&theme=violet-punch&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
 
+<!---
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=phemelomodiga&langs_count=8)](https://github.com/phemelomodiga/github-readme-stats)
+--->
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=phemelomodiga&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+ 
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=phemelomodiga&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
+ 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phemelomodiga&theme=tokyonight&border_radius=5&hide_border=true&layout=compact&langs_count=8"/>
 
 
 <!---
