@@ -27,7 +27,6 @@
 ---
 
 ### 👨‍💻: About Me :
-I Am a Software Developer from South Africa
 
 - 👋 Hi, I’m @phemelomodiga
 - 🛠 I’m interested in Software Development
